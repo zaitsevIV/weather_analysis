@@ -4,6 +4,7 @@ this programm based on matplotlib library
 ## Description of the program:
 
 #### This program displays a graph of the minimum, average and maximum temperature for 2022 on the territory of Moscow (Sheremetyevo). 
+#### Initial data is presented in the weather_data.csv file. The data was taken from the website http://pogoda-service.ru/
 #### The result of this program is a graph saved in a png file
 
 ## Marked points on the graph:
