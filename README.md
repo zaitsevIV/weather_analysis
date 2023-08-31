@@ -1,5 +1,5 @@
 # weather_analysis
-this programm based on matplotlib library
+this programm is based on matplotlib library
 
 ## Description of the program:
 
